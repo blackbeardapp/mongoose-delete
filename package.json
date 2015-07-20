@@ -24,8 +24,8 @@
     "url": "https://github.com/dsanel/mongoose-delete/issues"
   },
   "homepage": "https://github.com/dsanel/mongoose-delete",
-  "dependencies": {
-    "mongoose": "^3.8.14"
+  "peerDependencies": {
+    "mongoose": "*"
   },
   "devDependencies": {
     "chai": "^1.9.1",
